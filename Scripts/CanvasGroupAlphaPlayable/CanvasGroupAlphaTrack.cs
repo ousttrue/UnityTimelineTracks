@@ -3,7 +3,7 @@ using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
 
-namespace CanvasGroupAlphaPlayables
+namespace UnityTimelineTracks
 {
     [TrackColor(0, 0, 0)]
     [TrackClipType(typeof(CanvasGroupAlpha))]

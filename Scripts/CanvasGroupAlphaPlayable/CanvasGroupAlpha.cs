@@ -4,7 +4,7 @@ using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
 
-namespace CanvasGroupAlphaPlayables
+namespace UnityTimelineTracks
 {
 
     [Serializable]
